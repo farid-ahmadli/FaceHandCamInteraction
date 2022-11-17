@@ -1,0 +1,7 @@
+<icons>
+
+<icon image="carousel2/iCal.png" title="iCal" tooltip="iCal" function="down" action="loadPano(?panoName=images/pool/poolz)"/>
+
+<icon image="carousel2/iTune.png" title="iTune" tooltip="iTune" function="down" action="loadPano(?panoName=images/pool/poolz)"/>
+
+</icons>

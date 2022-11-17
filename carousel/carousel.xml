@@ -1,0 +1,10 @@
+<icons>
+<icon image="destroyMc.mc" title="Destroy" tooltip="Destroy Carousel" function="destroyCarousel"/>
+<icon image="removeItems.mc" title="Remove" tooltip="Remove Next Item" function="removeNextItem"/>
+<icon image="carousel2/iCal.png" title="iCal" tooltip="iCal" function="down" action="loadPano(?panoName=images/pool/poolz)"/>
+<icon image="carousel2/iTune.png" title="iTune" tooltip="iTune" function="down" action="loadPano(?panoName=images/pool/poolz)"/>
+<icon image="carousel2/iChat.png" title="iChat" tooltip="iChat" function="down" action="loadPano(?panoName=images/pool/poolz)"/>
+<icon image="carousel2/iPod.png" title="iPod" tooltip="iPod" function="down" action="loadPano(?panoName=images/pool/poolz)"/>
+<icon image="carousel2/Safari.png" title="Safari" tooltip="Safari" function="down" action="loadPano(?panoName=images/pool/poolz)"/>
+<icon image="carousel2/swissknife.gif" title="SAK" tooltip="Swiss Army Knife" function="down" action="loadPano(?panoName=images/pool/poolz)"/>
+</icons>
